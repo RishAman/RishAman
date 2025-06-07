@@ -26,19 +26,30 @@ src="https://img.shields.io/github/followers/RishAman?logo=github&style=for-the-
 src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### SKILLS
+### LANGUAGES
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
+
+</p>
+
+### TOOLS
+<p align="right
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /></a>
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="48" height="48" alt="Illustrator" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="48" height="48" alt="Google Cloud" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="48" height="48" alt="Blender" /></a>
-</p>
+
+
+
+### GAME ENGINE
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
+</a>
 
 ### SOCIAL
 <p align="left">
@@ -69,6 +80,13 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
     </picture>
   </a>
 </p>
+
+
+
+### game engine
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
+</a>
 
 ---
 
