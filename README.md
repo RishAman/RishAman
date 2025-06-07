@@ -3,6 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Founder of STARCRY™ TEAM
 ---------------------
+<img src="https://github.com/user-attachments/assets/b405c163-611e-4f57-92f9-ccd889366e2c" width="80">
+<img src="https://github.com/user-attachments/assets/6dafd3e7-9c3b-4eab-b3c6-d592e198fd3e" width="80">
+<img src="https://github.com/user-attachments/assets/8280ba5c-8f37-4ea8-91b8-b43e48265eee" width="80">
+<img src="https://github.com/user-attachments/assets/4b0d0170-d770-4781-afc7-1d228d72065c" width="80">
+<img src="https://github.com/user-attachments/assets/c813cf8b-76d3-4df3-9adc-0dc5f28556f3" width="80">
+<img src="https://github.com/user-attachments/assets/98d163e7-34a1-4aa2-b22f-d498ead53160" width="80">
+<img src="https://github.com/user-attachments/assets/6dafd3e7-9c3b-4eab-b3c6-d592e198fd3e" width="80">
 
 Just some dev who love playing games : )
 
