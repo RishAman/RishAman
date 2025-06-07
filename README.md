@@ -81,4 +81,7 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RishAman&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Image](https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f)
+![Image](https://github.com/user-attachments/assets/2dec6e07-cb7d-4d56-9931-d48223b2eac3)
+![Image](https://github.com/user-attachments/assets/d7a52b67-e089-44d1-b9e3-7ee3701bbe93)
+![Image](https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f)
