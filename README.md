@@ -70,7 +70,7 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
   </a>
 </p>
 
-
+---
 
 
 # 💻 Most used :
@@ -82,8 +82,13 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" width="70" height="30" />
 </a>
 
-
 </div>
+
+
+
+---
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -103,6 +108,12 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 </div>
 
+
+
+---
+
+
+
 ## 🏆 GitHub Trophies
 <div align="center">
 
@@ -119,6 +130,13 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 </div>
 
+
+
+---
+
+
+
+
 ### 🔝 Top Contributed Repo
 <div align="center">
 
@@ -127,7 +145,15 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 </div>
 
+
+
+
 ---
+
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=RishAman&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 📊PROJECT
 ### BLOCKBOT GAME
