@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/RishAman?logo=github&style=for-the-
 src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### 🆂 🅺 🅸 🅻 🅻 🆂 
+### SKILLS
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" /></a>
@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="48" height="48" alt="Blender" /></a>
 </p>
 
-### 🆂🅾🅲🅸🅰🅻
+### SOCIAL
 <p align="left">
   <!-- Discord -->
   <a href="https://discord.com/users/blue9.0" target="_blank" rel="noreferrer">
@@ -88,6 +88,10 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RishAman&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊PROJECT
 ### BLOCKBOT GAME
-![Image](https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f)
+<a href="https://potter123.itch.io/blockbots" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f" width="250" />
+</a>
+
 
