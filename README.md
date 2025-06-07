@@ -169,16 +169,22 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 
 
 [![](https://visitcount.itsvg.in/api?id=RishAman&icon=0&color=0)](https://visitcount.itsvg.in)
-### 📊PROJECT
-### BLOCKBOT (GAME)
+<div align="center">
+ <h1> ✍️🅿🆁🅾🅹🅴🅲🆃✍️ </h1>
+</div>
+
+<div align="center">
+BLOCKBOT (GAME)
+<div align="center">
 <a href="https://potter123.itch.io/blockbots" target="_blank">
   <img src="https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f" width="250" />
-</a>
+</a> 
 
 ---
 
-
-### SILENT WHISPER (GAME)
+<div align="center">
+SILENT WHISPER (GAME)
+<div align="center">
 <img src="https://github.com/user-attachments/assets/a174ff0c-27e9-42ae-b798-77f91778add1" width="500" />
 
 
