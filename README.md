@@ -164,6 +164,12 @@ SILENT WHISPER (GAME)
 
 ---
 
+# 💪 Support Me:) (thx) :
+<div align="center">
+<a href="https://itch.io/dashboard">
+<img src="https://github.com/user-attachments/assets/a690c321-2682-400f-bd36-a193b7327390" width="250" height="250" />
+</a>
+
 
 
 # 📊 GitHub Stats:
