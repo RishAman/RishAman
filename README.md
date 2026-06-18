@@ -98,6 +98,15 @@ src="https://img.shields.io/twitter/follow/STARCRYTEAM?logo=twitter&style=for-th
 </div>
 
 <div align="center">
+Natchanon Exorcist (GAME)
+<div align="center">
+<a href="https://khaitun-studio.itch.io/natchanon-exorcist" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a7fcf7b4-1462-4d84-ac7f-0591d5a4bc7f" width="250" />
+</a> 
+
+---
+
+<div align="center">
 BLOCKBOT (GAME)
 <div align="center">
 <a href="https://potter123.itch.io/blockbots" target="_blank">
